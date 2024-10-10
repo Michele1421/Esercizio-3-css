@@ -1,0 +1,54 @@
+*{
+    font-family: "Open Sans", sans-serif;
+}
+
+header{ background-image: url(https://www.messoanuovo.it/cdn/shop/articles/PC-gaming-scaled.jpg?v=1707413030);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+
+p{ color: rgb(167, 2, 98);}
+
+h2{ color: rgb(24, 175, 87); background-color: yellow;}
+
+body{ color: rgb(226, 8, 8);}
+
+.btnarticle{ background-color: blueviolet;
+             color: white;}
+
+
+.btnarticle:hover { background-color: rgb(141, 214, 45);
+    color: rgb(5, 5, 5);}  
+    
+    .button{background-color: blueviolet;
+        color: white; 
+    }    
+.button:hover{background-color: rgb(141, 214, 45);
+    color: rgb(5, 5, 5);
+        
+         
+}
+article { 
+    width: 60%;
+    
+}
+aside{
+     background-color: yellow;
+     }
+.lista{
+    display: inline-block;
+    
+}
+
+.lista:hover{
+       background-color: blueviolet;
+        
+}
+
+
+
+
+
